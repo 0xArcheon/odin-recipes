@@ -1,11 +1,27 @@
+body {
+    background-color: #D5EBDA;
+}
 .pagetitle {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #379683;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    list-style-position: inside;
+    text-align: center;
 }
 .recipeList {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 15px;
+    font-size: 20px;
 }
-.bodyclass {
-    background-color: #EDF6E1;
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #D5EBDA;
 }
